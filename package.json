@@ -1,0 +1,28 @@
+{
+  "name": "mainproj",
+  "version": "0.0.1",
+  "description": "this is a node project with integrated git",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('this is my test project with git and node')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bbonnet18/testfilesforgit.git).git"
+  },
+  "keywords": [
+    "testing",
+    "git",
+    "and",
+    "node"
+  ],
+  "author": "ben bonnet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbonnet18/testfilesforgit.git)/issues"
+  },
+  "homepage": "https://github.com/bbonnet18/testfilesforgit.git)#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
