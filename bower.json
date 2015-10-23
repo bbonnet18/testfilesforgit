@@ -1,0 +1,32 @@
+{
+  "name": "testautomation",
+  "description": "node with git",
+  "main": "index.js",
+  "authors": [
+    "ben bonnet"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "git",
+    "and",
+    "node"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "underscore": "~1.8.3"
+  }
+}
